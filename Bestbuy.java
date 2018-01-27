@@ -40,7 +40,7 @@ public class Bestbuy {
 	    public static WebDriver driver;
 	    public static FileInputStream fisexcel;
 	    public static FileInputStream fisexcel1;
-  // Automation for Bestbuy
+  // Automation for Bestbuy Website
 	    @Test
 		      public void test() throws IOException, AWTException {
 	    	System.setProperty("webdriver.chrome.driver","C:\\Users\\anagh\\Selenium\\chromedriver_win32\\chromedriver.exe");
